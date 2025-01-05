@@ -1,4 +1,4 @@
-# Data_Analyst_Project
+# Data_Analyst_Projects
 
 ## Objective
 The first project organizes a company's customer table and analyzes a certain customer, such as total, maximum and minimum expenditure on a product. We filter the customer table by age, monthly earnings and which ones purchased those specific products.
