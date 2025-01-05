@@ -10,6 +10,6 @@ The second project, in Step 1, I provided an overview of the data and wrote my o
 - Pandas
 - Jupyter Notebook
 
-## Principais Resultados
+## Final Results
 - In the Project 1, the analysis revealed that, in the city of Springfield, there is a significantly higher rate of music consumption compared to Shelbyville. Additionally, it was observed that the streaming application experiences a notable increase in usage on Mondays and Fridays.
 - The Project 2, the analysis showed that only 20% of customers are under 30 years old and have a monthly expense greater than $1000.00
